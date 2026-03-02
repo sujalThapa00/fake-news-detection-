@@ -14,7 +14,7 @@ Technologies Used
 - Matplotlib & Seaborn
 
 
-## ⚙️ Machine Learning Models
+Machine Learning Models
 - Logistic Regression
 - Random Forest
 - Naive Bayes
